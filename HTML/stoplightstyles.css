@@ -1,0 +1,23 @@
+.dot1 {
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot2 {
+    height: 150px;
+    width: 150px;
+    background-color:yellow;
+    border-radius: 50%;
+    display: inline-block;
+  }
+
+  .dot3 {
+    height: 150px;
+    width: 150px;
+    background-color: red;
+    border-radius: 50%;
+    display: inline-block;
+  }

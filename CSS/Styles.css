@@ -1,0 +1,9 @@
+P:nth-of-type(3) {
+    background-color: red;
+}
+
+P;:nth-of-type(3n) {
+    font-weight: bold;
+    font-size: 36px;
+
+}
